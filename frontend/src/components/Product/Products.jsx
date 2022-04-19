@@ -76,7 +76,7 @@ const Products = ({ match }) => {
               valueLabelDisplay="auto"
               aria-labelledby="range-slider"
               min={0}
-              max={25000}
+              max={250000}
             />
             
             <Typography>Categories</Typography>
