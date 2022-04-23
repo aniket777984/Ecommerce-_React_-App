@@ -218,6 +218,9 @@
     .ProductDetails > div:last-child {
       align-items: center;
     }
+    .CarouselImage {
+      width: 35vmax;
+    }
   
     .detailsBlock-1 > h2 {
       font-size: 2.8vmax;

@@ -14,6 +14,7 @@
     padding-left: 16vmax;
     justify-content: center;
     min-height: 30vh;
+    margin-left: 40px;
   }
   
   .paginationBox {
@@ -95,8 +96,13 @@
   }
   
   @media screen and (max-width: 600px) {
+    .productsHeading{
+      font-size: 20px;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.171);
+    }
     .products{
       padding: 0 5vmax;
+      margin-left: 0px;
     }
     .filterBox {
       width: 20vmax;
